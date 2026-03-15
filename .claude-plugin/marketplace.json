@@ -14,7 +14,7 @@
       "name": "geepers-skills-package",
       "description": "23 geepers skills \u2014 planning, building, shipping, researching.",
       "source": "./",
-      "strict": false,
+      "strict": true,
       "skills": [
         "./skills/geepers-builder",
         "./skills/geepers-fetch",
